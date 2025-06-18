@@ -1,0 +1,1 @@
+Agile is an iterative approach to managing software development projects. Scrum is a framework within Agile that uses sprints. Waterfall is a sequential design process. Lean focuses on minimizing waste and maximizing value.
